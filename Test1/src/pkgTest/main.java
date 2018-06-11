@@ -5,4 +5,5 @@ public class main {
 	int y = 2;
 	int z = x+y;
 	System.out.println("x+y=" + z);
+	
 }
