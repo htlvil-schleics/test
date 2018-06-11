@@ -3,5 +3,7 @@ import javax.swing.JButton;
 import javax.swing.JFrame;
 
 public class MainGUI extends JFrame {
-	JButton btnOK;
+	JButton btnOK1;
+	JButton btnOK2;
+	JButton btnOK3;
 }
