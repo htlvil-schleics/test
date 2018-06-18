@@ -12,5 +12,6 @@ public class MainGUI extends JFrame {
 	JButton btnOK1;
 	JButton btnOK2;
 	JButton btnOK3;
+	JButton btnOK4;
 >>>>>>> branch 'master' of https://github.com/htlvil-schleics/test
 }
